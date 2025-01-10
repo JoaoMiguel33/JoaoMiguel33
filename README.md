@@ -31,15 +31,13 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
   <img 
-    alt="GitHub Stats" 
-    width="50%"
+    alt="GitHub Stats"
     height="200" 
     src="https://github-readme-stats.vercel.app/api?username=JoaoMiguel33&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
     style="margin-right: 10px;"
   />
   <img 
     alt="Github stats"
-    width="50%"
     height="200" 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoMiguel33&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
