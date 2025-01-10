@@ -3,10 +3,7 @@
 
 Me chamo João Miguel, tenho 19 anos e sou apaixonado por tecnologia e esportes, concluí meu ensino médio na Escola de Ensino Médio Doutor César Cals. Atualmente estudo no IFCE no curso de Engenharia da Computação e faço parte como aprendiz da Mentoria de ensino da ICT Huawei Academy IFCE.
 
-<a href="https://www.linkedin.com/in/joão-miguel-nascimento-monteiro-23353a21a" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
-
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joão-miguel-nascimento-monteiro-23353a21a)
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/joaomiguel_33/)
 
 ### Tecnologias que eu uso no meu dia
@@ -29,6 +26,8 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"
 
 <br/>
 <br/>
+
+### Estatisticas
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
   <img 
