@@ -31,20 +31,9 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"
 <br/>
 <br/>
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=JoaoMiguel33&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
+### Estatisticas
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoMiguel33&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JoaoMiguel33&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br) 
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoMiguel33&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9) |
+|------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------|
 
-</p>
